@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.02933474.css",
-    "main.js": "/static/js/main.57eea8eb.js",
-    "static/js/787.e9eb364e.chunk.js": "/static/js/787.e9eb364e.chunk.js",
-    "static/media/primeicons.svg": "/static/media/primeicons.c6e2053303524e39530c.svg",
-    "static/media/newborn.png": "/static/media/newborn.a3ca5b02d30e066d4e97.png",
-    "static/media/primeicons.eot": "/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
-    "static/media/primeicons.woff": "/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
-    "static/media/primeicons.ttf": "/static/media/primeicons.91bacab1f083f2795272.ttf",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.02933474.css.map": "/static/css/main.02933474.css.map",
-    "main.57eea8eb.js.map": "/static/js/main.57eea8eb.js.map",
-    "787.e9eb364e.chunk.js.map": "/static/js/787.e9eb364e.chunk.js.map"
+    "main.css": "/invite-padrinho/static/css/main.fffc0954.css",
+    "main.js": "/invite-padrinho/static/js/main.d95626f3.js",
+    "static/js/787.e9eb364e.chunk.js": "/invite-padrinho/static/js/787.e9eb364e.chunk.js",
+    "static/media/primeicons.svg": "/invite-padrinho/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/newborn.png": "/invite-padrinho/static/media/newborn.a3ca5b02d30e066d4e97.png",
+    "static/media/primeicons.eot": "/invite-padrinho/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/invite-padrinho/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/invite-padrinho/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/logo.svg": "/invite-padrinho/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/invite-padrinho/index.html",
+    "main.fffc0954.css.map": "/invite-padrinho/static/css/main.fffc0954.css.map",
+    "main.d95626f3.js.map": "/invite-padrinho/static/js/main.d95626f3.js.map",
+    "787.e9eb364e.chunk.js.map": "/invite-padrinho/static/js/787.e9eb364e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02933474.css",
-    "static/js/main.57eea8eb.js"
+    "static/css/main.fffc0954.css",
+    "static/js/main.d95626f3.js"
   ]
 }
