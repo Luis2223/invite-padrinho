@@ -1,38 +1,36 @@
-.App {
+.title-h1 {
+  color: #000;
+  font-size: 45pt;
+  font-family: "Great Vibes", cursive;
+  margin-bottom: 55px;
+}
+
+.title-h4 {
   text-align: center;
+  color: #000;
+  font-size: 22pt;
+  font-family: "Great Vibes", cursive;
+  margin-bottom: 0px;
+}
+.text {
+  color: #000;
+  font-weight: bold;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.content-text {
+  font-size: 18pt;
+  font-family: "Great Vibes", cursive;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.main {
+  max-width: 80%;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  text-align: start;
+  margin: auto;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.footer {
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
 }
